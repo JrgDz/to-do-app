@@ -113,7 +113,7 @@ const Formulario = ({agregarToDo}) => {
                         className="form-check-label" 
                         htmlFor="flexCheckDefault"
                     >
-                        Prioridad
+                        Prioritario
                     </label>
                 </div>
                 <button type="submit" className="btn btn-primary">Agregar</button>
